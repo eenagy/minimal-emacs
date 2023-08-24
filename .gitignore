@@ -1,0 +1,16 @@
+# .gitignore
+elpa/
+auto-save-list/
+recentf
+.cache/
+custom-vars.el
+custom-vars.el~
+eln-cache/
+history
+init.el~
+places
+projectile-bookmarks.eld
+straight/
+transient/
+
+
